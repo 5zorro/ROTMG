@@ -108,7 +108,7 @@ def openUpROTMG():
 #finds the corners of the ROTMG window to increase pixel searching efficiency
 def whereROTMGWindow():
     logging.info("finding the ROTMG Window edges")
-    time.sleep(.05)
+    time.sleep(.1)
     im = Image.open("greenTitleBar.png").convert(mode="RGB")
     px = im.load()
 
@@ -375,8 +375,9 @@ try:
                 print("The ROTMG window has closed")
                 break
             else:
-                winIMG = pyautogui.screenshot(region= (winLoc[0],winLoc[2],10,10)).convert(mode="1")
+                winIMG = pyautogui.screenshot(region= (winLoc[0],winLoc[1],30,30)).convert(mode="1")
                 HPBar[0:2] = 0,0
+                updateOnNextRun = True
         # TODO if the ROTMG WINDOW is closed, break from this while loop
 
         #set up the CMD Overlay if it needs to be updated

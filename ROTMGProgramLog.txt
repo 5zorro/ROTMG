@@ -1,263 +1,46 @@
- 2017-02-18 15:37:38,808 - INFO - Start of program
- 2017-02-18 15:37:38,808 - INFO - opening Up ROTMG
- 2017-02-18 15:37:39,204 - INFO - SteamTrayIconClosed.png matches PX on screen
- 2017-02-18 15:37:40,490 - ERROR - trayloc must not be None(854, 112)
- 2017-02-18 15:37:48,903 - INFO - ROTMGTitleGreen.png matches PX on screen
- 2017-02-18 15:37:48,905 - INFO - finding the ROTMG Window edges
- 2017-02-18 15:37:49,531 - INFO - Update GAME OVERLAY
- 2017-02-18 15:37:49,547 - INFO - Updating Where Vars
- 2017-02-18 15:37:51,351 - INFO - it took 1.803920030593872 seconds to finish searches.
- 2017-02-18 15:37:51,384 - INFO - Updating Where Vars
- 2017-02-18 15:37:54,085 - INFO - it took 2.7007455825805664 seconds to finish searches.
- 2017-02-18 15:37:54,118 - INFO - Updating Where Vars
- 2017-02-18 15:37:56,802 - INFO - it took 2.6831676959991455 seconds to finish searches.
- 2017-02-18 15:37:56,839 - INFO - Updating Where Vars
- 2017-02-18 15:37:59,378 - INFO - it took 2.539266586303711 seconds to finish searches.
- 2017-02-18 15:37:59,419 - INFO - Updating Where Vars
- 2017-02-18 15:38:02,011 - INFO - it took 2.5908637046813965 seconds to finish searches.
- 2017-02-18 15:38:02,058 - INFO - Updating Where Vars
- 2017-02-18 15:38:04,719 - INFO - it took 2.660714626312256 seconds to finish searches.
- 2017-02-18 15:38:04,760 - INFO - Updating Where Vars
- 2017-02-18 15:38:06,958 - INFO - it took 2.1980581283569336 seconds to finish searches.
- 2017-02-18 15:38:07,000 - INFO - Updating Where Vars
- 2017-02-18 15:38:08,794 - INFO - it took 1.793952226638794 seconds to finish searches.
- 2017-02-18 15:38:08,847 - INFO - Updating Where Vars
- 2017-02-18 15:38:10,648 - INFO - it took 1.8008403778076172 seconds to finish searches.
- 2017-02-18 15:38:10,698 - INFO - Updating Where Vars
- 2017-02-18 15:38:12,490 - INFO - it took 1.7926599979400635 seconds to finish searches.
- 2017-02-18 15:38:12,547 - INFO - Updating Where Vars
- 2017-02-18 15:38:14,323 - INFO - it took 1.7758448123931885 seconds to finish searches.
- 2017-02-18 15:38:14,364 - INFO - Updating Where Vars
- 2017-02-18 15:38:16,136 - INFO - it took 1.7719049453735352 seconds to finish searches.
- 2017-02-18 15:38:16,179 - INFO - Updating Where Vars
- 2017-02-18 15:38:17,954 - INFO - it took 1.7744059562683105 seconds to finish searches.
- 2017-02-18 15:38:17,997 - INFO - Updating Where Vars
- 2017-02-18 15:38:19,788 - INFO - it took 1.7900230884552002 seconds to finish searches.
- 2017-02-18 15:38:19,831 - INFO - Updating Where Vars
- 2017-02-18 15:38:21,623 - INFO - it took 1.7913212776184082 seconds to finish searches.
- 2017-02-18 15:38:21,664 - INFO - Updating Where Vars
- 2017-02-18 15:38:23,441 - INFO - it took 1.7759721279144287 seconds to finish searches.
- 2017-02-18 15:38:23,482 - INFO - Updating Where Vars
- 2017-02-18 15:38:25,267 - INFO - it took 1.7851598262786865 seconds to finish searches.
- 2017-02-18 15:38:25,313 - INFO - Updating Where Vars
- 2017-02-18 15:38:27,099 - INFO - it took 1.7861220836639404 seconds to finish searches.
- 2017-02-18 15:38:27,147 - INFO - Updating Where Vars
- 2017-02-18 15:38:28,951 - INFO - it took 1.8033087253570557 seconds to finish searches.
- 2017-02-18 15:38:29,001 - INFO - Updating Where Vars
- 2017-02-18 15:38:30,779 - INFO - it took 1.7777841091156006 seconds to finish searches.
- 2017-02-18 15:38:30,834 - INFO - Updating Where Vars
- 2017-02-18 15:38:32,633 - INFO - it took 1.7989096641540527 seconds to finish searches.
- 2017-02-18 15:38:32,682 - INFO - Updating Where Vars
- 2017-02-18 15:38:34,491 - INFO - it took 1.808000087738037 seconds to finish searches.
- 2017-02-18 15:38:34,534 - INFO - Updating Where Vars
- 2017-02-18 15:38:36,322 - INFO - it took 1.7881317138671875 seconds to finish searches.
- 2017-02-18 15:38:36,367 - INFO - Updating Where Vars
- 2017-02-18 15:38:38,159 - INFO - it took 1.7914721965789795 seconds to finish searches.
- 2017-02-18 15:38:38,200 - INFO - Updating Where Vars
- 2017-02-18 15:38:39,986 - INFO - it took 1.7863855361938477 seconds to finish searches.
- 2017-02-18 15:38:40,031 - INFO - Updating Where Vars
- 2017-02-18 15:38:41,808 - INFO - it took 1.7759552001953125 seconds to finish searches.
- 2017-02-18 15:38:41,850 - INFO - Updating Where Vars
- 2017-02-18 15:38:43,622 - INFO - it took 1.7712161540985107 seconds to finish searches.
- 2017-02-18 15:38:43,667 - INFO - Updating Where Vars
- 2017-02-18 15:38:45,441 - INFO - it took 1.7740123271942139 seconds to finish searches.
- 2017-02-18 15:38:45,482 - INFO - Updating Where Vars
- 2017-02-18 15:38:47,253 - INFO - it took 1.770289421081543 seconds to finish searches.
- 2017-02-18 15:38:47,301 - INFO - Updating Where Vars
- 2017-02-18 15:38:49,074 - INFO - it took 1.7733476161956787 seconds to finish searches.
- 2017-02-18 15:38:49,118 - INFO - Updating Where Vars
- 2017-02-18 15:38:50,909 - INFO - it took 1.791201114654541 seconds to finish searches.
- 2017-02-18 15:38:50,951 - INFO - Updating Where Vars
- 2017-02-18 15:38:52,724 - INFO - it took 1.7724401950836182 seconds to finish searches.
- 2017-02-18 15:38:52,768 - INFO - Updating Where Vars
- 2017-02-18 15:38:54,541 - INFO - it took 1.7733793258666992 seconds to finish searches.
- 2017-02-18 15:38:54,585 - INFO - Updating Where Vars
- 2017-02-18 15:38:56,364 - INFO - it took 1.7787704467773438 seconds to finish searches.
- 2017-02-18 15:38:56,418 - INFO - Updating Where Vars
- 2017-02-18 15:38:58,227 - INFO - it took 1.807997703552246 seconds to finish searches.
- 2017-02-18 15:38:58,269 - INFO - Updating Where Vars
- 2017-02-18 15:39:00,044 - INFO - it took 1.7743422985076904 seconds to finish searches.
- 2017-02-18 15:39:00,089 - INFO - Updating Where Vars
- 2017-02-18 15:39:01,860 - INFO - it took 1.7716834545135498 seconds to finish searches.
- 2017-02-18 15:39:01,903 - INFO - Updating Where Vars
- 2017-02-18 15:39:03,676 - INFO - it took 1.7717881202697754 seconds to finish searches.
- 2017-02-18 15:39:03,724 - INFO - Updating Where Vars
- 2017-02-18 15:39:05,533 - INFO - it took 1.8089330196380615 seconds to finish searches.
- 2017-02-18 15:39:05,588 - INFO - Updating Where Vars
- 2017-02-18 15:39:07,377 - INFO - it took 1.7887253761291504 seconds to finish searches.
- 2017-02-18 15:39:07,421 - INFO - Updating Where Vars
- 2017-02-18 15:39:09,229 - INFO - it took 1.8072569370269775 seconds to finish searches.
- 2017-02-18 15:39:09,270 - INFO - Updating Where Vars
- 2017-02-18 15:39:11,041 - INFO - it took 1.7702360153198242 seconds to finish searches.
- 2017-02-18 15:39:11,086 - INFO - Updating Where Vars
- 2017-02-18 15:39:12,863 - INFO - it took 1.7765233516693115 seconds to finish searches.
- 2017-02-18 15:39:12,904 - INFO - Updating Where Vars
- 2017-02-18 15:39:14,678 - INFO - it took 1.7744381427764893 seconds to finish searches.
- 2017-02-18 15:39:14,721 - INFO - Updating Where Vars
- 2017-02-18 15:39:16,499 - INFO - it took 1.7771573066711426 seconds to finish searches.
- 2017-02-18 15:39:16,555 - INFO - Updating Where Vars
- 2017-02-18 15:39:18,331 - INFO - it took 1.7752685546875 seconds to finish searches.
- 2017-02-18 15:39:18,372 - INFO - Updating Where Vars
- 2017-02-18 15:39:20,150 - INFO - it took 1.7784919738769531 seconds to finish searches.
- 2017-02-18 15:39:20,211 - INFO - Updating Where Vars
- 2017-02-18 15:39:21,978 - INFO - it took 1.767430067062378 seconds to finish searches.
- 2017-02-18 15:39:22,023 - INFO - Updating Where Vars
- 2017-02-18 15:39:23,808 - INFO - it took 1.7851943969726562 seconds to finish searches.
- 2017-02-18 15:39:23,856 - INFO - Updating Where Vars
- 2017-02-18 15:39:25,644 - INFO - it took 1.7870392799377441 seconds to finish searches.
- 2017-02-18 15:39:25,690 - INFO - Updating Where Vars
- 2017-02-18 15:39:27,484 - INFO - it took 1.7944262027740479 seconds to finish searches.
- 2017-02-18 15:39:27,541 - INFO - Updating Where Vars
- 2017-02-18 15:39:29,328 - INFO - it took 1.787386417388916 seconds to finish searches.
- 2017-02-18 15:39:29,373 - INFO - Updating Where Vars
- 2017-02-18 15:39:31,197 - INFO - it took 1.823108196258545 seconds to finish searches.
- 2017-02-18 15:39:31,240 - INFO - Updating Where Vars
- 2017-02-18 15:39:33,367 - INFO - it took 2.126929521560669 seconds to finish searches.
- 2017-02-18 15:39:33,425 - INFO - Updating Where Vars
- 2017-02-18 15:39:35,266 - INFO - it took 1.840303897857666 seconds to finish searches.
- 2017-02-18 15:39:35,307 - INFO - Updating Where Vars
- 2017-02-18 15:39:37,083 - INFO - it took 1.7754013538360596 seconds to finish searches.
- 2017-02-18 15:39:37,125 - INFO - Updating Where Vars
- 2017-02-18 15:39:38,907 - INFO - it took 1.781212329864502 seconds to finish searches.
- 2017-02-18 15:39:38,958 - INFO - Updating Where Vars
- 2017-02-18 15:39:40,745 - INFO - it took 1.787370204925537 seconds to finish searches.
- 2017-02-18 15:39:40,775 - INFO - Updating Where Vars
- 2017-02-18 15:39:42,522 - INFO - it took 1.7454602718353271 seconds to finish searches.
- 2017-02-18 15:39:42,562 - INFO - Updating Where Vars
- 2017-02-18 15:39:44,304 - INFO - it took 1.7419655323028564 seconds to finish searches.
- 2017-02-18 15:39:44,346 - INFO - Updating Where Vars
- 2017-02-18 15:39:46,132 - INFO - it took 1.7857773303985596 seconds to finish searches.
- 2017-02-18 15:39:46,177 - INFO - Updating Where Vars
- 2017-02-18 15:39:47,972 - INFO - it took 1.7951009273529053 seconds to finish searches.
- 2017-02-18 15:39:48,025 - INFO - Updating Where Vars
- 2017-02-18 15:39:49,812 - INFO - it took 1.7871153354644775 seconds to finish searches.
- 2017-02-18 15:39:49,859 - INFO - Updating Where Vars
- 2017-02-18 15:39:51,628 - INFO - it took 1.769707202911377 seconds to finish searches.
- 2017-02-18 15:39:51,675 - INFO - Updating Where Vars
- 2017-02-18 15:39:53,459 - INFO - it took 1.783846139907837 seconds to finish searches.
- 2017-02-18 15:39:53,509 - INFO - Updating Where Vars
- 2017-02-18 15:39:55,281 - INFO - it took 1.772374153137207 seconds to finish searches.
- 2017-02-18 15:39:55,332 - INFO - Updating Where Vars
- 2017-02-18 15:39:57,111 - INFO - it took 1.7790453433990479 seconds to finish searches.
- 2017-02-18 15:39:57,164 - INFO - Updating Where Vars
- 2017-02-18 15:39:58,924 - INFO - it took 1.7596569061279297 seconds to finish searches.
- 2017-02-18 15:39:58,977 - INFO - Updating Where Vars
- 2017-02-18 15:40:00,743 - INFO - it took 1.7653210163116455 seconds to finish searches.
- 2017-02-18 15:40:00,794 - INFO - Updating Where Vars
- 2017-02-18 15:40:02,563 - INFO - it took 1.769338607788086 seconds to finish searches.
- 2017-02-18 15:40:02,610 - INFO - Updating Where Vars
- 2017-02-18 15:40:04,376 - INFO - it took 1.764726161956787 seconds to finish searches.
- 2017-02-18 15:40:04,427 - INFO - Updating Where Vars
- 2017-02-18 15:40:06,223 - INFO - it took 1.7953917980194092 seconds to finish searches.
- 2017-02-18 15:40:06,279 - INFO - Updating Where Vars
- 2017-02-18 15:40:08,045 - INFO - it took 1.7658472061157227 seconds to finish searches.
- 2017-02-18 15:40:08,094 - INFO - Updating Where Vars
- 2017-02-18 15:40:09,860 - INFO - it took 1.7654914855957031 seconds to finish searches.
- 2017-02-18 15:40:09,911 - INFO - Updating Where Vars
- 2017-02-18 15:40:11,672 - INFO - it took 1.7611944675445557 seconds to finish searches.
- 2017-02-18 15:40:11,728 - INFO - Updating Where Vars
- 2017-02-18 15:40:13,477 - INFO - it took 1.7492339611053467 seconds to finish searches.
- 2017-02-18 15:40:13,528 - INFO - Updating Where Vars
- 2017-02-18 15:40:15,306 - INFO - it took 1.777834177017212 seconds to finish searches.
- 2017-02-18 15:40:15,345 - INFO - Updating Where Vars
- 2017-02-18 15:40:17,111 - INFO - it took 1.765695571899414 seconds to finish searches.
- 2017-02-18 15:40:17,162 - INFO - Updating Where Vars
- 2017-02-18 15:40:18,926 - INFO - it took 1.763808250427246 seconds to finish searches.
- 2017-02-18 15:40:18,978 - INFO - Updating Where Vars
- 2017-02-18 15:40:20,750 - INFO - it took 1.7709565162658691 seconds to finish searches.
- 2017-02-18 15:40:20,797 - INFO - Updating Where Vars
- 2017-02-18 15:40:22,546 - INFO - it took 1.7493069171905518 seconds to finish searches.
- 2017-02-18 15:40:22,598 - INFO - Updating Where Vars
- 2017-02-18 15:40:24,360 - INFO - it took 1.761826992034912 seconds to finish searches.
- 2017-02-18 15:40:24,413 - INFO - Updating Where Vars
- 2017-02-18 15:40:26,178 - INFO - it took 1.7647931575775146 seconds to finish searches.
- 2017-02-18 15:40:26,230 - INFO - Updating Where Vars
- 2017-02-18 15:40:27,995 - INFO - it took 1.7640860080718994 seconds to finish searches.
- 2017-02-18 15:40:28,047 - INFO - Updating Where Vars
- 2017-02-18 15:40:29,813 - INFO - it took 1.7659857273101807 seconds to finish searches.
- 2017-02-18 15:40:29,863 - INFO - Updating Where Vars
- 2017-02-18 15:40:31,640 - INFO - it took 1.7766447067260742 seconds to finish searches.
- 2017-02-18 15:40:31,680 - INFO - Updating Where Vars
- 2017-02-18 15:40:33,454 - INFO - it took 1.7737269401550293 seconds to finish searches.
- 2017-02-18 15:40:33,497 - INFO - Updating Where Vars
- 2017-02-18 15:40:35,260 - INFO - it took 1.7631480693817139 seconds to finish searches.
- 2017-02-18 15:40:35,314 - INFO - Updating Where Vars
- 2017-02-18 15:40:37,082 - INFO - it took 1.7672529220581055 seconds to finish searches.
- 2017-02-18 15:40:37,131 - INFO - Updating Where Vars
- 2017-02-18 15:40:38,902 - INFO - it took 1.7714569568634033 seconds to finish searches.
- 2017-02-18 15:40:38,952 - INFO - Updating Where Vars
- 2017-02-18 15:40:40,725 - INFO - it took 1.7729477882385254 seconds to finish searches.
- 2017-02-18 15:40:40,782 - INFO - Updating Where Vars
- 2017-02-18 15:40:42,548 - INFO - it took 1.7664284706115723 seconds to finish searches.
- 2017-02-18 15:40:42,598 - INFO - Updating Where Vars
- 2017-02-18 15:40:44,369 - INFO - it took 1.7710959911346436 seconds to finish searches.
- 2017-02-18 15:40:44,415 - INFO - Updating Where Vars
- 2017-02-18 15:40:46,182 - INFO - it took 1.7670860290527344 seconds to finish searches.
- 2017-02-18 15:40:46,232 - INFO - Updating Where Vars
- 2017-02-18 15:40:47,999 - INFO - it took 1.767049789428711 seconds to finish searches.
- 2017-02-18 15:40:48,049 - INFO - Updating Where Vars
- 2017-02-18 15:40:49,839 - INFO - it took 1.7897975444793701 seconds to finish searches.
- 2017-02-18 15:40:49,883 - INFO - Updating Where Vars
- 2017-02-18 15:40:51,661 - INFO - it took 1.7780563831329346 seconds to finish searches.
- 2017-02-18 15:40:51,717 - INFO - Updating Where Vars
- 2017-02-18 15:40:53,483 - INFO - it took 1.7667794227600098 seconds to finish searches.
- 2017-02-18 15:40:53,533 - INFO - Updating Where Vars
- 2017-02-18 15:40:55,481 - INFO - it took 1.9477944374084473 seconds to finish searches.
- 2017-02-18 15:40:55,537 - INFO - Updating Where Vars
- 2017-02-18 15:40:58,034 - INFO - it took 2.497349739074707 seconds to finish searches.
- 2017-02-18 15:40:58,091 - INFO - Updating Where Vars
- 2017-02-18 15:41:00,396 - INFO - it took 2.3030924797058105 seconds to finish searches.
- 2017-02-18 15:41:00,457 - INFO - Updating Where Vars
- 2017-02-18 15:41:02,814 - INFO - it took 2.356173515319824 seconds to finish searches.
- 2017-02-18 15:41:02,868 - INFO - Updating Where Vars
- 2017-02-18 15:41:04,655 - INFO - it took 1.7866008281707764 seconds to finish searches.
- 2017-02-18 15:41:04,701 - INFO - Updating Where Vars
- 2017-02-18 15:41:06,484 - INFO - it took 1.7826108932495117 seconds to finish searches.
- 2017-02-18 15:41:06,539 - INFO - Updating Where Vars
- 2017-02-18 15:41:09,333 - INFO - it took 2.794430732727051 seconds to finish searches.
- 2017-02-18 15:41:09,396 - INFO - Updating Where Vars
- 2017-02-18 15:41:12,193 - INFO - it took 2.7973926067352295 seconds to finish searches.
- 2017-02-18 15:41:12,230 - INFO - Updating Where Vars
- 2017-02-18 15:41:14,954 - INFO - it took 2.723851442337036 seconds to finish searches.
- 2017-02-18 15:41:15,001 - INFO - Updating Where Vars
- 2017-02-18 15:41:17,121 - INFO - it took 2.1189088821411133 seconds to finish searches.
- 2017-02-18 15:41:17,156 - INFO - Updating Where Vars
- 2017-02-18 15:41:18,922 - INFO - it took 1.7655730247497559 seconds to finish searches.
- 2017-02-18 15:41:18,969 - INFO - Updating Where Vars
- 2017-02-18 15:41:20,749 - INFO - it took 1.778930902481079 seconds to finish searches.
- 2017-02-18 15:41:20,803 - INFO - Updating Where Vars
- 2017-02-18 15:41:22,581 - INFO - it took 1.7771506309509277 seconds to finish searches.
- 2017-02-18 15:41:22,622 - INFO - Updating Where Vars
- 2017-02-18 15:41:24,390 - INFO - it took 1.7679061889648438 seconds to finish searches.
- 2017-02-18 15:41:24,437 - INFO - Updating Where Vars
- 2017-02-18 15:41:26,209 - INFO - it took 1.772087574005127 seconds to finish searches.
- 2017-02-18 15:41:26,253 - INFO - Updating Where Vars
- 2017-02-18 15:41:28,023 - INFO - it took 1.769350528717041 seconds to finish searches.
- 2017-02-18 15:41:28,069 - INFO - Updating Where Vars
- 2017-02-18 15:41:29,842 - INFO - it took 1.77292799949646 seconds to finish searches.
- 2017-02-18 15:41:29,887 - INFO - Updating Where Vars
- 2017-02-18 15:41:31,654 - INFO - it took 1.765991449356079 seconds to finish searches.
- 2017-02-18 15:41:31,705 - INFO - Updating Where Vars
- 2017-02-18 15:41:33,497 - INFO - it took 1.7918968200683594 seconds to finish searches.
- 2017-02-18 15:41:33,538 - INFO - Updating Where Vars
- 2017-02-18 15:41:35,310 - INFO - it took 1.7711031436920166 seconds to finish searches.
- 2017-02-18 15:41:35,355 - INFO - Updating Where Vars
- 2017-02-18 15:41:37,141 - INFO - it took 1.785766839981079 seconds to finish searches.
- 2017-02-18 15:41:37,190 - INFO - Updating Where Vars
- 2017-02-18 15:41:38,979 - INFO - it took 1.7890818119049072 seconds to finish searches.
- 2017-02-18 15:41:39,023 - INFO - Updating Where Vars
- 2017-02-18 15:41:40,804 - INFO - it took 1.7798573970794678 seconds to finish searches.
- 2017-02-18 15:41:40,854 - INFO - Updating Where Vars
- 2017-02-18 15:41:42,637 - INFO - it took 1.7818915843963623 seconds to finish searches.
- 2017-02-18 15:41:42,690 - INFO - Updating Where Vars
- 2017-02-18 15:41:44,460 - INFO - it took 1.7703654766082764 seconds to finish searches.
- 2017-02-18 15:41:44,506 - INFO - Updating Where Vars
- 2017-02-18 15:41:46,275 - INFO - it took 1.7692406177520752 seconds to finish searches.
- 2017-02-18 15:41:46,324 - INFO - Updating Where Vars
- 2017-02-18 15:41:48,106 - INFO - it took 1.7819464206695557 seconds to finish searches.
- 2017-02-18 15:41:48,154 - INFO - Updating Where Vars
- 2017-02-18 15:41:49,967 - INFO - it took 1.811913013458252 seconds to finish searches.
- 2017-02-18 15:41:50,010 - INFO - Updating Where Vars
- 2017-02-18 15:41:51,876 - INFO - it took 1.8654263019561768 seconds to finish searches.
- 2017-02-18 15:41:51,925 - INFO - finding the ROTMG Window edges
- 2017-02-18 15:41:55,044 - INFO - The ROTMG window has closed
+ 2017-02-18 16:37:36,572 - INFO - Start of program
+ 2017-02-18 16:37:36,574 - INFO - opening Up ROTMG
+ 2017-02-18 16:37:36,972 - INFO - SteamTrayIconClosed.png matches PX on screen
+ 2017-02-18 16:37:38,288 - ERROR - trayloc must not be None(854, 112)
+ 2017-02-18 16:37:46,780 - INFO - ROTMGTitleGreen.png matches PX on screen
+ 2017-02-18 16:37:46,782 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:37:47,492 - INFO - Update GAME OVERLAY
+ 2017-02-18 16:37:47,510 - INFO - Updating Where Vars
+ 2017-02-18 16:37:49,457 - INFO - it took 1.9465734958648682 seconds to finish searches.
+ 2017-02-18 16:37:49,493 - INFO - Updating Where Vars
+ 2017-02-18 16:37:51,309 - INFO - it took 1.8161017894744873 seconds to finish searches.
+ 2017-02-18 16:37:51,340 - INFO - Updating Where Vars
+ 2017-02-18 16:37:53,213 - INFO - it took 1.8727610111236572 seconds to finish searches.
+ 2017-02-18 16:37:53,242 - INFO - Updating Where Vars
+ 2017-02-18 16:37:55,754 - INFO - it took 2.5119829177856445 seconds to finish searches.
+ 2017-02-18 16:37:55,802 - INFO - Updating Where Vars
+ 2017-02-18 16:37:58,881 - INFO - it took 3.0783820152282715 seconds to finish searches.
+ 2017-02-18 16:37:58,930 - INFO - Updating Where Vars
+ 2017-02-18 16:38:00,963 - INFO - it took 2.0325522422790527 seconds to finish searches.
+ 2017-02-18 16:38:00,993 - INFO - Updating Where Vars
+ 2017-02-18 16:38:02,933 - INFO - it took 1.9400978088378906 seconds to finish searches.
+ 2017-02-18 16:38:02,975 - INFO - Updating Where Vars
+ 2017-02-18 16:38:04,899 - INFO - it took 1.923576831817627 seconds to finish searches.
+ 2017-02-18 16:38:04,944 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:09,427 - INFO - Updating Where Vars
+ 2017-02-18 16:38:09,586 - INFO - it took 0.15802383422851562 seconds to finish searches.
+ 2017-02-18 16:38:09,625 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:12,060 - INFO - Updating Where Vars
+ 2017-02-18 16:38:12,200 - INFO - it took 0.13948941230773926 seconds to finish searches.
+ 2017-02-18 16:38:12,241 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:12,844 - INFO - Updating Where Vars
+ 2017-02-18 16:38:14,685 - INFO - it took 1.8399107456207275 seconds to finish searches.
+ 2017-02-18 16:38:14,725 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:15,308 - INFO - Updating Where Vars
+ 2017-02-18 16:38:17,159 - INFO - it took 1.8499841690063477 seconds to finish searches.
+ 2017-02-18 16:38:17,195 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:17,794 - INFO - Updating Where Vars
+ 2017-02-18 16:38:19,609 - INFO - it took 1.813791036605835 seconds to finish searches.
+ 2017-02-18 16:38:19,644 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:20,246 - INFO - Updating Where Vars
+ 2017-02-18 16:38:22,095 - INFO - it took 1.8486061096191406 seconds to finish searches.
+ 2017-02-18 16:38:22,129 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:22,712 - INFO - Updating Where Vars
+ 2017-02-18 16:38:24,542 - INFO - it took 1.829287052154541 seconds to finish searches.
+ 2017-02-18 16:38:24,579 - INFO - finding the ROTMG Window edges
+ 2017-02-18 16:38:25,197 - INFO - Updating Where Vars
