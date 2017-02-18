@@ -5,7 +5,7 @@ from PIL import Image #, ImageChops, ImageStat
 import logging
 ##
 ##  This is my program to create an auto game overlay for rotmg
-##  The various parts are defined at the beginning, and they are
+##  The various functions are defined at the beginning, and they are
 ##  called at the end
 #SETTING UP LOGGING
 if os.path.isfile('ROTMGProgramLog.txt'):#this will delete what was in the logging file
