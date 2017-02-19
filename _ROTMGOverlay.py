@@ -68,17 +68,19 @@ def openUpROTMG():
     pyautogui.moveTo(trayLoc[0]*xScreenScale, trayLoc[1]*yScreenScale)
     pyautogui.click(button="right")
     time.sleep(2/3)
-    trayLoc = pyautogui.locateCenterOnScreen("ROTMGDropdown.png") #region = (trayLoc[0] - 200, trayLoc[1]+30, 50,100) )
-    logging.error("trayloc must not be None" + str(trayLoc))
+    trayLoc = searchPNG("ROTMGDropdown",center=True) #region = (trayLoc[0] - 200, trayLoc[1]+30, 50,100) )
+    if trayLoc == None:
+        logging.error("trayloc must not be None" + str(trayLoc)+ "screenshot created")
+        pyautogui.screenshot("DebugScreenshot.png")
     pyautogui.moveTo(trayLoc[0]*xScreenScale, trayLoc[1]*yScreenScale)
     pyautogui.click(button = "left")
     logging.debug("ROTMG is coming into focus")
     time.sleep(7.5)
-    a = pyautogui.locateOnScreen("ROTMGTrayIconOpenAndFocused.png")
+    a = searchPNG("ROTMGTrayIconOpen")
     if a == None:
         logging.debug("steam should be opening, this could take a while")
         time.sleep(60)
-        a = pyautogui.locateOnScreen("ROTMGTrayIconOpen.png")
+        a = searchPNG("ROTMGTrayIconOpen")
     if a == None:
         logging.error("Where is the rotmg Window?")
         pyautogui.screenshot("DebugScreenshot.png")
