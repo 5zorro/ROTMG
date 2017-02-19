@@ -108,7 +108,7 @@ def openUpROTMG():
 #finds the corners of the ROTMG window to increase pixel searching efficiency
 def whereROTMGWindow():
     logging.info("finding the ROTMG Window edges")
-    time.sleep(.05)
+    time.sleep(.1)
     im = Image.open("greenTitleBar.png").convert(mode="RGB")
     px = im.load()
 
@@ -194,47 +194,26 @@ def whereROTMGWindow():
 
 def searchPNG(fileRootStr,region=None,center=False):
     if center == False:
-        if region == None:
-            for filename in os.listdir():
-                if len(filename) < len(fileRootStr) + 4: continue
-                if filename[-4:] != ".png": continue
-                if filename[:len(fileRootStr)] == fileRootStr:
-                    Loc = pyautogui.locateOnScreen(filename)
-                    if Loc != None:
-                        logging.info(filename + " matches PX on screen")
-                        return Loc
-        else: #there is a specified region
-            for filename in os.listdir():
-                if len(filename) < len(fileRootStr) + 4: continue
-                if filename[-4:] != ".png": continue
-                if filename[:len(fileRootStr)] == fileRootStr:
-                    Loc = pyautogui.locateOnScreen(filename, region=region)
-                    if Loc != None:
-                        logging.info(filename + " matches PX on screen")
-                        return Loc
-    else:
-        if region == None:
-            for filename in os.listdir():
-                if len(filename) < len(fileRootStr) + 4: continue
-                if filename[-4:] != ".png": continue
-                if filename[:len(fileRootStr)] == fileRootStr:
-                    Loc = pyautogui.locateCenterOnScreen(filename)
-                    if Loc != None:
-                        logging.info(filename + " matches PX on screen")
-                        return Loc
-        else: #there is a specified region
-            for filename in os.listdir():
-                if len(filename) < len(fileRootStr) + 4: continue
-                if filename[-4:] != ".png": continue
-                if filename[:len(fileRootStr)] == fileRootStr:
-                    Loc = pyautogui.locateCenterOnScreen(filename, region=region)
-                    if Loc != None:
-                        logging.info(filename + " matches PX on screen")
-                        return Loc
-    #return the location of the PNG
+        #there is a specified region tuple (x,y,xwidth,yheight)
+        for filename in os.listdir():
+            if len(filename) < len(fileRootStr) + 4: continue
+            if filename[-4:] != ".png": continue
+            if filename[:len(fileRootStr)] == fileRootStr:
+                Loc = pyautogui.locateOnScreen(filename, region=region)
+                if Loc != None:
+                    logging.info(filename + " matches PX on screen")
+                    return Loc
+    else: #they want the Loc to be a center tuple of length (x,y)
+        for filename in os.listdir():
+            if len(filename) < len(fileRootStr) + 4: continue
+            if filename[-4:] != ".png": continue
+            if filename[:len(fileRootStr)] == fileRootStr:
+                Loc = pyautogui.locateCenterOnScreen(filename, region=region)
+                if Loc != None:
+                    logging.info(filename + " matches PX on screen")
+                    return Loc
 
-
-def whereIam(region=(0,0,1920,1080)):
+def whereIam(region=None):
     logging.info( "Updating Where Vars")
     a = time.time()
     global whereLoc
@@ -371,13 +350,16 @@ try:
         if winIMG != pyautogui.screenshot(region= (winLoc[0],winLoc[1],30,30)).convert(mode="1"):
             winLoc = whereROTMGWindow()
             if winLoc == None:
-                logging.info("The ROTMG window has closed")
-                print("The ROTMG window has closed")
+                logging.info("The ROTMG window is no longer in focus")
+                print("The ROTMG window is no longer in focus")
+                # if the ROTMG window is closed, break from this while loop
                 break
             else:
-                winIMG = pyautogui.screenshot(region= (winLoc[0],winLoc[2],10,10)).convert(mode="1")
+                #the rotmg window is in focus, but has moved. Update Images and Locs that are dependent on that
+                winIMG = pyautogui.screenshot(region= (winLoc[0],winLoc[1],30,30)).convert(mode="1")
                 HPBar[0:2] = 0,0
-        # TODO if the ROTMG WINDOW is closed, break from this while loop
+                updateOnNextRun = True
+                
 
         #set up the CMD Overlay if it needs to be updated
         if updateOnNextRun:
@@ -385,7 +367,7 @@ try:
 
       
         # EnterARealm.png refers to the picture you pick when you click enter. I hope 
-        #to map this to a key like T or Y
+        #to map this to a key like T or Y if i figure out how to make a keylogger of this kind of prog.
         
         a = whereStr
         whereIam(winLoc) #update vars
