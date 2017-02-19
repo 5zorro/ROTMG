@@ -1,46 +1,18 @@
- 2017-02-18 16:37:36,572 - INFO - Start of program
- 2017-02-18 16:37:36,574 - INFO - opening Up ROTMG
- 2017-02-18 16:37:36,972 - INFO - SteamTrayIconClosed.png matches PX on screen
- 2017-02-18 16:37:38,288 - ERROR - trayloc must not be None(854, 112)
- 2017-02-18 16:37:46,780 - INFO - ROTMGTitleGreen.png matches PX on screen
- 2017-02-18 16:37:46,782 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:37:47,492 - INFO - Update GAME OVERLAY
- 2017-02-18 16:37:47,510 - INFO - Updating Where Vars
- 2017-02-18 16:37:49,457 - INFO - it took 1.9465734958648682 seconds to finish searches.
- 2017-02-18 16:37:49,493 - INFO - Updating Where Vars
- 2017-02-18 16:37:51,309 - INFO - it took 1.8161017894744873 seconds to finish searches.
- 2017-02-18 16:37:51,340 - INFO - Updating Where Vars
- 2017-02-18 16:37:53,213 - INFO - it took 1.8727610111236572 seconds to finish searches.
- 2017-02-18 16:37:53,242 - INFO - Updating Where Vars
- 2017-02-18 16:37:55,754 - INFO - it took 2.5119829177856445 seconds to finish searches.
- 2017-02-18 16:37:55,802 - INFO - Updating Where Vars
- 2017-02-18 16:37:58,881 - INFO - it took 3.0783820152282715 seconds to finish searches.
- 2017-02-18 16:37:58,930 - INFO - Updating Where Vars
- 2017-02-18 16:38:00,963 - INFO - it took 2.0325522422790527 seconds to finish searches.
- 2017-02-18 16:38:00,993 - INFO - Updating Where Vars
- 2017-02-18 16:38:02,933 - INFO - it took 1.9400978088378906 seconds to finish searches.
- 2017-02-18 16:38:02,975 - INFO - Updating Where Vars
- 2017-02-18 16:38:04,899 - INFO - it took 1.923576831817627 seconds to finish searches.
- 2017-02-18 16:38:04,944 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:09,427 - INFO - Updating Where Vars
- 2017-02-18 16:38:09,586 - INFO - it took 0.15802383422851562 seconds to finish searches.
- 2017-02-18 16:38:09,625 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:12,060 - INFO - Updating Where Vars
- 2017-02-18 16:38:12,200 - INFO - it took 0.13948941230773926 seconds to finish searches.
- 2017-02-18 16:38:12,241 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:12,844 - INFO - Updating Where Vars
- 2017-02-18 16:38:14,685 - INFO - it took 1.8399107456207275 seconds to finish searches.
- 2017-02-18 16:38:14,725 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:15,308 - INFO - Updating Where Vars
- 2017-02-18 16:38:17,159 - INFO - it took 1.8499841690063477 seconds to finish searches.
- 2017-02-18 16:38:17,195 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:17,794 - INFO - Updating Where Vars
- 2017-02-18 16:38:19,609 - INFO - it took 1.813791036605835 seconds to finish searches.
- 2017-02-18 16:38:19,644 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:20,246 - INFO - Updating Where Vars
- 2017-02-18 16:38:22,095 - INFO - it took 1.8486061096191406 seconds to finish searches.
- 2017-02-18 16:38:22,129 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:22,712 - INFO - Updating Where Vars
- 2017-02-18 16:38:24,542 - INFO - it took 1.829287052154541 seconds to finish searches.
- 2017-02-18 16:38:24,579 - INFO - finding the ROTMG Window edges
- 2017-02-18 16:38:25,197 - INFO - Updating Where Vars
+ 2017-02-18 17:00:05,767 - INFO - Start of program
+ 2017-02-18 17:00:05,768 - INFO - opening Up ROTMG
+ 2017-02-18 17:00:06,581 - INFO - SteamTrayIconClosed.png matches PX on screen
+ 2017-02-18 17:00:08,192 - ERROR - trayloc must not be None(854, 112)
+ 2017-02-18 17:00:17,173 - INFO - ROTMGTitleGreen.png matches PX on screen
+ 2017-02-18 17:00:17,174 - INFO - finding the ROTMG Window edges
+ 2017-02-18 17:00:18,144 - INFO - Update GAME OVERLAY
+ 2017-02-18 17:00:18,168 - INFO - Updating Where Vars
+ 2017-02-18 17:00:20,884 - INFO - it took 2.715291976928711 seconds to finish searches.
+ 2017-02-18 17:00:20,926 - INFO - Updating Where Vars
+ 2017-02-18 17:00:23,664 - INFO - it took 2.738262414932251 seconds to finish searches.
+ 2017-02-18 17:00:23,714 - INFO - Updating Where Vars
+ 2017-02-18 17:00:26,362 - INFO - it took 2.647799491882324 seconds to finish searches.
+ 2017-02-18 17:00:26,411 - INFO - Updating Where Vars
+ 2017-02-18 17:00:29,145 - INFO - it took 2.73417329788208 seconds to finish searches.
+ 2017-02-18 17:00:29,180 - INFO - Updating Where Vars
+ 2017-02-18 17:00:31,995 - INFO - it took 2.813706874847412 seconds to finish searches.
+ 2017-02-18 17:00:32,028 - INFO - finding the ROTMG Window edges
