@@ -1,18 +1,4 @@
- 2017-02-18 17:00:05,767 - INFO - Start of program
- 2017-02-18 17:00:05,768 - INFO - opening Up ROTMG
- 2017-02-18 17:00:06,581 - INFO - SteamTrayIconClosed.png matches PX on screen
- 2017-02-18 17:00:08,192 - ERROR - trayloc must not be None(854, 112)
- 2017-02-18 17:00:17,173 - INFO - ROTMGTitleGreen.png matches PX on screen
- 2017-02-18 17:00:17,174 - INFO - finding the ROTMG Window edges
- 2017-02-18 17:00:18,144 - INFO - Update GAME OVERLAY
- 2017-02-18 17:00:18,168 - INFO - Updating Where Vars
- 2017-02-18 17:00:20,884 - INFO - it took 2.715291976928711 seconds to finish searches.
- 2017-02-18 17:00:20,926 - INFO - Updating Where Vars
- 2017-02-18 17:00:23,664 - INFO - it took 2.738262414932251 seconds to finish searches.
- 2017-02-18 17:00:23,714 - INFO - Updating Where Vars
- 2017-02-18 17:00:26,362 - INFO - it took 2.647799491882324 seconds to finish searches.
- 2017-02-18 17:00:26,411 - INFO - Updating Where Vars
- 2017-02-18 17:00:29,145 - INFO - it took 2.73417329788208 seconds to finish searches.
- 2017-02-18 17:00:29,180 - INFO - Updating Where Vars
- 2017-02-18 17:00:31,995 - INFO - it took 2.813706874847412 seconds to finish searches.
- 2017-02-18 17:00:32,028 - INFO - finding the ROTMG Window edges
+ 2017-03-01 11:02:44,407 - INFO - Start of program
+ 2017-03-01 11:02:44,407 - INFO - opening Up ROTMG
+ 2017-03-01 11:02:48,707 - INFO - SteamTrayIconOpen.png matches PX on screen
+ 2017-03-01 11:02:50,042 - INFO - ROTMGDropdown.png matches PX on screen
